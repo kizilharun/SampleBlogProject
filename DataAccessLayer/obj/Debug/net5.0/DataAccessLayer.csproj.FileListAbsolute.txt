@@ -1,0 +1,17 @@
+C:\Users\kizil\source\repos\SampleCoreProject\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\kizil\source\repos\SampleCoreProject\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\kizil\source\repos\SampleCoreProject\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\kizil\source\repos\SampleCoreProject\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\kizil\source\repos\SampleCoreProject\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\kizil\source\repos\SampleCoreProject\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\kizil\source\repos\SampleCoreProject\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\kizil\source\repos\SampleCoreProject\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\kizil\source\repos\SampleCoreProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\kizil\source\repos\SampleCoreProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kizil\source\repos\SampleCoreProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\kizil\source\repos\SampleCoreProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\kizil\source\repos\SampleCoreProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kizil\source\repos\SampleCoreProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\kizil\source\repos\SampleCoreProject\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\kizil\source\repos\SampleCoreProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\kizil\source\repos\SampleCoreProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
