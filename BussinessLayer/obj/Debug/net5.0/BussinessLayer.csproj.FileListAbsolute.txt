@@ -11,7 +11,6 @@ C:\Users\kizil\source\repos\SampleCoreProject\BussinessLayer\obj\Debug\net5.0\Bu
 C:\Users\kizil\source\repos\SampleCoreProject\BussinessLayer\obj\Debug\net5.0\BussinessLayer.AssemblyInfoInputs.cache
 C:\Users\kizil\source\repos\SampleCoreProject\BussinessLayer\obj\Debug\net5.0\BussinessLayer.AssemblyInfo.cs
 C:\Users\kizil\source\repos\SampleCoreProject\BussinessLayer\obj\Debug\net5.0\BussinessLayer.csproj.CoreCompileInputs.cache
-C:\Users\kizil\source\repos\SampleCoreProject\BussinessLayer\obj\Debug\net5.0\BussinessLayer.csproj.CopyComplete
 C:\Users\kizil\source\repos\SampleCoreProject\BussinessLayer\obj\Debug\net5.0\BussinessLayer.dll
 C:\Users\kizil\source\repos\SampleCoreProject\BussinessLayer\obj\Debug\net5.0\ref\BussinessLayer.dll
 C:\Users\kizil\source\repos\SampleCoreProject\BussinessLayer\obj\Debug\net5.0\BussinessLayer.pdb
