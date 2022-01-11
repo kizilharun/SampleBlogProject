@@ -156,4 +156,6 @@ C:\Users\kizil\source\repos\SampleCoreProject\SampleCoreProject\obj\Debug\net5.0
 C:\Users\kizil\source\repos\SampleCoreProject\SampleCoreProject\obj\Debug\net5.0\Razor\Views\Shared\Partial1.cshtml.g.cs
 C:\Users\kizil\source\repos\SampleCoreProject\SampleCoreProject\obj\Debug\net5.0\Razor\Views\Shared\Partial2.cshtml.g.cs
 C:\Users\kizil\source\repos\SampleCoreProject\SampleCoreProject\obj\Debug\net5.0\Razor\Views\Shared\Partial3.cshtml.g.cs
-C:\Users\kizil\source\repos\SampleCoreProject\SampleCoreProject\obj\Debug\net5.0\Razor\Views\Blog\BlogDetails.cshtml.g.cs
+C:\Users\kizil\source\repos\SampleCoreProject\SampleCoreProject\obj\Debug\net5.0\Razor\Views\Blog\BlogReadAll.cshtml.g.cs
+C:\Users\kizil\source\repos\SampleCoreProject\SampleCoreProject\obj\Debug\net5.0\Razor\Views\Comment\PartialAddComment.cshtml.g.cs
+C:\Users\kizil\source\repos\SampleCoreProject\SampleCoreProject\obj\Debug\net5.0\Razor\Views\Comment\CommentListByBlog.cshtml.g.cs

@@ -16,9 +16,10 @@ namespace SampleCoreProject.Controllers
             var values = bm.GetBlogListWithCategory();
             return View(values);
         }
-        public IActionResult BlogDetails(int Id)
+        public IActionResult BlogReadAll(int Id)
         {
-            return View();
+            var values = bm.GetBlogById(Id);
+            return View(values);
         }
     }
 }
