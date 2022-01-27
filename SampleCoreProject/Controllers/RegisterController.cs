@@ -22,7 +22,10 @@ namespace SampleCoreProject.Controllers
         [HttpPost]
         public IActionResult Index(Writer p)
         {
-            return View();
+            p.WriterStatus = true;
+            p.WriterAbout = "test";
+            wm.AddWriter(p);
+            return RedirectToAction("Index", "Blog");
         }
     }
 }
