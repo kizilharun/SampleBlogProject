@@ -163,3 +163,7 @@ C:\Users\kizil\source\repos\SampleCoreProject\SampleCoreProject\obj\Debug\net5.0
 C:\Users\kizil\source\repos\SampleCoreProject\SampleCoreProject\obj\Debug\net5.0\Razor\Views\Shared\Components\CommentListByBlog\Default.cshtml.g.cs
 C:\Users\kizil\source\repos\SampleCoreProject\SampleCoreProject\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
 C:\Users\kizil\source\repos\SampleCoreProject\SampleCoreProject\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\kizil\source\repos\SampleCoreProject\SampleCoreProject\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\kizil\source\repos\SampleCoreProject\SampleCoreProject\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\kizil\source\repos\SampleCoreProject\SampleCoreProject\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\kizil\source\repos\SampleCoreProject\SampleCoreProject\obj\Debug\net5.0\SampleCoreProject.MvcApplicationPartsAssemblyInfo.cs
