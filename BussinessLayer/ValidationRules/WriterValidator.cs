@@ -15,7 +15,7 @@ namespace BussinessLayer.ValidationRules
             RuleFor(x => x.WriterName).NotEmpty().WithMessage("this field cannot be left blank !!");
             RuleFor(x => x.WriterMail).NotEmpty().WithMessage("this field cannot be left blank !!");
             RuleFor(x => x.WriterPassword).NotEmpty().WithMessage("this field cannot be left blank !!");
-            RuleFor(x => x.WriterPassword).MaximumLength(2).WithMessage("cannot be less than two character !!");
+            RuleFor(x => x.WriterName).MinimumLength(2).WithMessage("cannot be less than two character !!");
             
         }
     }
