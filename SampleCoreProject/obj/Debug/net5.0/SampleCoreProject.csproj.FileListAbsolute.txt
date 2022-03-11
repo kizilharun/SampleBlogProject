@@ -169,3 +169,4 @@ C:\Users\kizil\source\repos\SampleCoreProject\SampleCoreProject\bin\Debug\net5.0
 C:\Users\kizil\source\repos\SampleCoreProject\SampleCoreProject\obj\Debug\net5.0\SampleCoreProject.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\kizil\source\repos\SampleCoreProject\SampleCoreProject\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
 C:\Users\kizil\source\repos\SampleCoreProject\SampleCoreProject\obj\Debug\net5.0\Razor\Views\Shared\Components\WriterLastBlog\Default.cshtml.g.cs
+C:\Users\kizil\source\repos\SampleCoreProject\SampleCoreProject\obj\Debug\net5.0\Razor\Views\NewsLetter\SubscribeMail.cshtml.g.cs
