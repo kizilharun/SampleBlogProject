@@ -18,9 +18,9 @@ namespace BussinessLayer.Concrete
             _commentDal = commentDal;
         }
 
-        public void AddCategory(Comment comment)
+        public void AddComment(Comment comment)
         {
-            throw new NotImplementedException();
+            _commentDal.Insert(comment);
         }
 
         public List<Comment> GetList(int id)

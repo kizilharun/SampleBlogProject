@@ -9,7 +9,7 @@ namespace BussinessLayer.Abstract
 {
     public interface ICommentService
     {
-        void AddCategory(Comment comment);
+        void AddComment(Comment comment);
         //void DeleteCategory(Category category);
         //void UpdateCategory(Category category);
         List<Comment> GetList(int id);

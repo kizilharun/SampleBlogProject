@@ -1,5 +1,6 @@
 ﻿using BussinessLayer.Concrete;
 using DataAccessLayer.EntityFramework;
+using EntityLayer.Concrete;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -16,8 +17,18 @@ namespace SampleCoreProject.Controllers
         {
             return View();
         }
+        [HttpGet]
         public PartialViewResult PartialAddComment()
         {
+            return PartialView();
+        }
+        [HttpPost]
+        public PartialViewResult PartialAddComment(Comment p)
+        {
+            p.BlogId = 24;
+            p.CommentDate = DateTime.Parse(DateTime.Now.ToShortDateString());
+            p.CommentStatus = true;
+            cm.AddComment(p);
             return PartialView();
         }
         public PartialViewResult CommentListByBlog(int id)
