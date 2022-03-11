@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using EntityLayer.Concrete;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,11 +9,16 @@ namespace SampleCoreProject.Controllers
 {
     public class NewsLetterController : Controller
     {
+        [HttpGet]
         public PartialViewResult SubscribeMail()
         {
-            return View();
+            return PartialView();
         }
         [HttpPost]
-
+        public PartialViewResult SubscribeMail(NewsLetter p)
+        {
+           
+            return PartialView();
+        }
     }
 }
