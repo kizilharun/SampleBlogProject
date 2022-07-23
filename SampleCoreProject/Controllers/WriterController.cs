@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 
 namespace SampleCoreProject.Controllers
 {
-    [Authorize]
     public class WriterController : Controller
     {
         public IActionResult Index()
