@@ -26,6 +26,7 @@ namespace SampleCoreProject
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddSession();
             services.AddMvc(config =>
             {
                 var policy = new AuthorizationPolicyBuilder()
@@ -51,6 +52,8 @@ namespace SampleCoreProject
             app.UseStatusCodePagesWithReExecute("/ErrorPages/Error404","?code={0}");
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+
+            app.UseSession();
 
             app.UseRouting();
 
