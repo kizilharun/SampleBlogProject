@@ -57,7 +57,7 @@ namespace SampleCoreProject
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
-            app.UseSession();
+            app.UseAuthentication();
 
             app.UseRouting();
 
